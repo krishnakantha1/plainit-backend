@@ -1,0 +1,15 @@
+GET(POST) /line-charts returns line charts for the given user
+GET(POST) /line-chart returns data for one line chart for a given user
+
+POST /card
+POST /card-with-parent
+PUT /card-cordinations
+DELETE /card
+DELETE /link
+POST /link
+
+
+Create - POST
+Read - GET
+Update - PUT
+Delete - DELETE
